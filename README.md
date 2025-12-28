@@ -28,3 +28,11 @@ and auditability**.
 ---
 
 ## Project Structure
+
+PricingLLM/
+├── pricing_master.csv
+├── step2_read_pricing.py
+├── step3_price_change.py
+├── step4_ai_style_analysis.py
+├── step5_llm_pricing_analysis.py
+├── README.md
